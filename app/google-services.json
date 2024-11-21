@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042235366671",
+    "project_id": "stadiumnexus",
+    "storage_bucket": "stadiumnexus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042235366671:android:4757b037912b3a1057b27a",
+        "android_client_info": {
+          "package_name": "com.venkat.stadiumnexus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2POgB7LLUEa2CuW9P6kGHIRsRVnBfCKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
